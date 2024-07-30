@@ -1,0 +1,870 @@
+********************************************************************************
+                                    SEMANA 1                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V   ANTRO 038V      MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V   ANTRO 038V      MATE 007V
+21:11:00   OOP 011V    INGLES 015V   DATABASE 013V   ANTRO 038V      MATE 007V
+21:50:00   OOP 011V    INGLES 015V   DATABASE 013V   ANTRO 038V      MATE 007V
+22:30:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00              
+12:50:00              
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                    SEMANA 2                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V   ANTRO 038V      MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V   ANTRO 038V      MATE 007V
+21:11:00   OOP 011V    INGLES 016V   DATABASE 013V   ANTRO 038V      MATE 007V
+21:50:00   OOP 011V    INGLES 016V   DATABASE 013V   ANTRO 038V      MATE 007V
+22:30:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00              
+12:50:00              
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                    SEMANA 3                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:11:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+21:50:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+22:30:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 041V 
+12:10:00   ANTRO 041V 
+12:11:00   ANTRO 041V 
+12:50:00   ANTRO 041V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                    SEMANA 4                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:11:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+21:50:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+22:30:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 041V 
+12:10:00   ANTRO 041V 
+12:11:00   ANTRO 041V 
+12:50:00   ANTRO 041V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                    SEMANA 5                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:11:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+21:50:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+22:30:00   OOP 011V    INGLES 015V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 042V 
+12:10:00   ANTRO 042V 
+12:11:00   ANTRO 042V 
+12:50:00   ANTRO 042V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                    SEMANA 6                                    
+********************************************************************************
+ HOURS      Monday       Tuesday       Wednesday       Thursday       Friday  
+==============================================================================
+19:01:00   MATE 007V                 REQ 007V        DATABASE 013V   OOP 011V 
+19:41:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:20:00   MATE 007V   REQ 007V      REQ 007V        DATABASE 013V   OOP 011V 
+20:31:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:10:00   OOP 011V    REQ 007V      DATABASE 013V                   MATE 007V
+21:11:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+21:50:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+22:30:00   OOP 011V    INGLES 016V   DATABASE 013V                   MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 042V 
+12:10:00   ANTRO 042V 
+12:11:00   ANTRO 042V 
+12:50:00   ANTRO 042V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                    SEMANA 7                                    
+********************************************************************************
+ HOURS      Monday      Tuesday       Wednesday       Thursday       Friday  
+=============================================================================
+19:01:00   OOP 012V                 REQ 007V        DATABASE 013V   MATE 008V
+19:41:00   OOP 012V   REQ 007V      REQ 007V        DATABASE 013V   MATE 008V
+20:20:00   OOP 012V   REQ 007V      REQ 007V        DATABASE 013V   MATE 008V
+20:31:00              REQ 007V      DATABASE 013V   ANTRO 038V      OOP 012V 
+21:10:00              REQ 007V      DATABASE 013V   ANTRO 038V      OOP 012V 
+21:11:00              INGLES 015V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:50:00              INGLES 015V   DATABASE 013V   ANTRO 038V      OOP 012V 
+22:30:00              INGLES 015V   DATABASE 013V                   OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                    SEMANA 8                                    
+********************************************************************************
+ HOURS      Monday      Tuesday       Wednesday       Thursday       Friday  
+=============================================================================
+19:01:00   OOP 012V                 REQ 007V        DATABASE 013V   MATE 008V
+19:41:00   OOP 012V   REQ 007V      REQ 007V        DATABASE 013V   MATE 008V
+20:20:00   OOP 012V   REQ 007V      REQ 007V        DATABASE 013V   MATE 008V
+20:31:00              REQ 007V      DATABASE 013V   ANTRO 038V      OOP 012V 
+21:10:00              REQ 007V      DATABASE 013V   ANTRO 038V      OOP 012V 
+21:11:00              INGLES 016V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:50:00              INGLES 016V   DATABASE 013V   ANTRO 038V      OOP 012V 
+22:30:00              INGLES 016V   DATABASE 013V                   OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                    SEMANA 9                                    
+********************************************************************************
+ HOURS       Monday      Tuesday      Wednesday       Thursday       Friday  
+=============================================================================
+19:01:00   OOP 012V                 REQ 007V        DATABASE 013V   MATE 008V
+19:41:00   OOP 012V      REQ 007V   REQ 007V        DATABASE 013V   MATE 008V
+20:20:00   OOP 012V      REQ 007V   REQ 007V        DATABASE 013V   MATE 008V
+20:31:00   INGLES 017V   REQ 007V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:10:00   INGLES 017V   REQ 007V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:11:00   INGLES 017V              DATABASE 013V   ANTRO 038V      OOP 012V 
+21:50:00   INGLES 017V              DATABASE 013V   ANTRO 038V      OOP 012V 
+22:30:00                            DATABASE 013V                   OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 017V
+9:50:00    INGLES 017V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 10                                    
+********************************************************************************
+ HOURS       Monday      Tuesday      Wednesday       Thursday       Friday  
+=============================================================================
+19:01:00   OOP 012V                 REQ 007V        DATABASE 013V   MATE 008V
+19:41:00   OOP 012V      REQ 007V   REQ 007V        DATABASE 013V   MATE 008V
+20:20:00   OOP 012V      REQ 007V   REQ 007V        DATABASE 013V   MATE 008V
+20:31:00   INGLES 018V   REQ 007V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:10:00   INGLES 018V   REQ 007V   DATABASE 013V   ANTRO 038V      OOP 012V 
+21:11:00   INGLES 018V              DATABASE 013V   ANTRO 038V      OOP 012V 
+21:50:00   INGLES 018V              DATABASE 013V   ANTRO 038V      OOP 012V 
+22:30:00                            DATABASE 013V                   OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00   INGLES 018V
+15:50:00   INGLES 018V
+
+********************************************************************************
+                                   SEMANA 11                                    
+********************************************************************************
+ HOURS      Monday      Tuesday       Wednesday       Thursday       Friday 
+============================================================================
+19:01:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+19:41:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+20:20:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+20:31:00                            DATABASE 013V   MATE 009V       OOP 012V
+21:10:00                            DATABASE 013V   MATE 009V       OOP 012V
+21:11:00              INGLES 015V   DATABASE 013V   MATE 009V       OOP 012V
+21:50:00              INGLES 015V   DATABASE 013V   MATE 009V       OOP 012V
+22:30:00              INGLES 015V   DATABASE 013V   MATE 009V       OOP 012V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   REQ 009V   
+12:50:00   REQ 009V   
+13:01:00   REQ 009V   
+13:40:00   REQ 009V   
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 12                                    
+********************************************************************************
+ HOURS      Monday      Tuesday       Wednesday       Thursday       Friday 
+============================================================================
+19:01:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+19:41:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+20:20:00   OOP 012V   ANTRO 040V    MATE 009V       DATABASE 013V   REQ 009V
+20:31:00                            DATABASE 013V   MATE 009V       OOP 012V
+21:10:00                            DATABASE 013V   MATE 009V       OOP 012V
+21:11:00              INGLES 016V   DATABASE 013V   MATE 009V       OOP 012V
+21:50:00              INGLES 016V   DATABASE 013V   MATE 009V       OOP 012V
+22:30:00              INGLES 016V   DATABASE 013V   MATE 009V       OOP 012V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   REQ 009V   
+12:50:00   REQ 009V   
+13:01:00   REQ 009V   
+13:40:00   REQ 009V   
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                   SEMANA 13                                    
+********************************************************************************
+ HOURS       Monday       Tuesday       Wednesday       Thursday       Friday 
+==============================================================================
+19:01:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+19:41:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+20:20:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+20:31:00   INGLES 017V                DATABASE 013V   MATE 009V       OOP 012V
+21:10:00   INGLES 017V                DATABASE 013V   MATE 009V       OOP 012V
+21:11:00   INGLES 017V                DATABASE 013V   MATE 009V       OOP 012V
+21:50:00   INGLES 017V                DATABASE 013V   MATE 009V       OOP 012V
+22:30:00                              DATABASE 013V   MATE 009V       OOP 012V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 017V
+9:50:00    INGLES 017V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   REQ 009V   
+12:50:00   REQ 009V   
+13:01:00   REQ 009V   
+13:40:00   REQ 009V   
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 14                                    
+********************************************************************************
+ HOURS       Monday       Tuesday       Wednesday       Thursday       Friday 
+==============================================================================
+19:01:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+19:41:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+20:20:00   OOP 012V      ANTRO 040V   MATE 009V       DATABASE 013V   REQ 009V
+20:31:00   INGLES 018V                DATABASE 013V   MATE 009V       OOP 012V
+21:10:00   INGLES 018V                DATABASE 013V   MATE 009V       OOP 012V
+21:11:00   INGLES 018V                DATABASE 013V   MATE 009V       OOP 012V
+21:50:00   INGLES 018V                DATABASE 013V   MATE 009V       OOP 012V
+22:30:00                              DATABASE 013V   MATE 009V       OOP 012V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   REQ 009V   
+12:50:00   REQ 009V   
+13:01:00   REQ 009V   
+13:40:00   REQ 009V   
+14:20:00              
+14:31:00   INGLES 018V
+15:50:00   INGLES 018V
+
+********************************************************************************
+                                   SEMANA 15                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday      Thursday       Friday  
+=============================================================================
+19:01:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V     REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V     REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 015V     REQ 008V     REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 015V     REQ 008V     REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 015V                                  MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00              
+12:50:00              
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 16                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday      Thursday       Friday  
+=============================================================================
+19:01:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V   ANTRO 039V   DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V     REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V     REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 016V     REQ 008V     REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 016V     REQ 008V     REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 016V                                  MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00              
+12:50:00              
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                   SEMANA 17                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday     Thursday       Friday  
+============================================================================
+19:01:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 015V     REQ 008V    REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 015V     REQ 008V    REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 015V                                 MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 041V 
+12:10:00   ANTRO 041V 
+12:11:00   ANTRO 041V 
+12:50:00   ANTRO 041V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 18                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday     Thursday       Friday  
+============================================================================
+19:01:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 016V     REQ 008V    REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 016V     REQ 008V    REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 016V                                 MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 041V 
+12:10:00   ANTRO 041V 
+12:11:00   ANTRO 041V 
+12:50:00   ANTRO 041V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                   SEMANA 19                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday     Thursday       Friday  
+============================================================================
+19:01:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 015V     REQ 008V    REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 015V     REQ 008V    REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 015V                                 MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 042V 
+12:10:00   ANTRO 042V 
+12:11:00   ANTRO 042V 
+12:50:00   ANTRO 042V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 20                                    
+********************************************************************************
+ HOURS      Monday        Tuesday      Wednesday     Thursday       Friday  
+============================================================================
+19:01:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+19:41:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:20:00   MATE 007V   DATABASE 014V               DATABASE 014V   OOP 011V 
+20:31:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:10:00   OOP 011V    DATABASE 014V   REQ 008V    REQ 008V        MATE 007V
+21:11:00   OOP 011V    INGLES 016V     REQ 008V    REQ 008V        MATE 007V
+21:50:00   OOP 011V    INGLES 016V     REQ 008V    REQ 008V        MATE 007V
+22:30:00   OOP 011V    INGLES 016V                                 MATE 007V
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00   ANTRO 042V 
+12:10:00   ANTRO 042V 
+12:11:00   ANTRO 042V 
+12:50:00   ANTRO 042V 
+13:01:00              
+13:40:00              
+14:20:00              
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                   SEMANA 21                                    
+********************************************************************************
+ HOURS      Monday       Tuesday      Wednesday      Thursday       Friday  
+============================================================================
+19:01:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+19:41:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:20:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:31:00              DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:10:00              DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:11:00              INGLES 015V     REQ 008V     REQ 008V        OOP 012V 
+21:50:00              INGLES 015V     REQ 008V     REQ 008V        OOP 012V 
+22:30:00              INGLES 015V                                  OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 015V
+9:50:00    INGLES 015V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 22                                    
+********************************************************************************
+ HOURS      Monday       Tuesday      Wednesday      Thursday       Friday  
+============================================================================
+19:01:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+19:41:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:20:00   OOP 012V   DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:31:00              DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:10:00              DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:11:00              INGLES 016V     REQ 008V     REQ 008V        OOP 012V 
+21:50:00              INGLES 016V     REQ 008V     REQ 008V        OOP 012V 
+22:30:00              INGLES 016V                                  OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00   INGLES 016V
+15:50:00   INGLES 016V
+
+********************************************************************************
+                                   SEMANA 23                                    
+********************************************************************************
+ HOURS       Monday         Tuesday      Wednesday      Thursday       Friday  
+===============================================================================
+19:01:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+19:41:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:20:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:31:00   INGLES 017V   DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:10:00   INGLES 017V   DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:11:00   INGLES 017V                   REQ 008V     REQ 008V        OOP 012V 
+21:50:00   INGLES 017V                   REQ 008V     REQ 008V        OOP 012V 
+22:30:00                                                              OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00    INGLES 017V
+9:50:00    INGLES 017V
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00              
+15:50:00              
+
+********************************************************************************
+                                   SEMANA 24                                    
+********************************************************************************
+ HOURS       Monday         Tuesday      Wednesday      Thursday       Friday  
+===============================================================================
+19:01:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+19:41:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:20:00   OOP 012V      DATABASE 014V   ANTRO 039V   DATABASE 014V   MATE 008V
+20:31:00   INGLES 018V   DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:10:00   INGLES 018V   DATABASE 014V   REQ 008V     REQ 008V        OOP 012V 
+21:11:00   INGLES 018V                   REQ 008V     REQ 008V        OOP 012V 
+21:50:00   INGLES 018V                   REQ 008V     REQ 008V        OOP 012V 
+22:30:00                                                              OOP 012V 
+ HOURS      Saturday  
+======================
+8:31:00               
+9:50:00               
+10:01:00              
+11:20:00              
+11:31:00              
+12:10:00              
+12:11:00   MATE 008V  
+12:50:00   MATE 008V  
+13:01:00   MATE 008V  
+13:40:00   MATE 008V  
+14:20:00   MATE 008V  
+14:31:00   INGLES 018V
+15:50:00   INGLES 018V
+
+********************************************************************************
+                                   SEMANA 25                                    
+********************************************************************************
+ HOURS        Monday       Tuesday    Wednesday    Thursday    Friday  
+=======================================================================
+19:01:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+19:41:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+20:20:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+20:31:00   INGLES 017V     OOP 013V   REQ 008V     REQ 008V            
+21:10:00   INGLES 017V     OOP 013V   REQ 008V     REQ 008V            
+21:11:00   INGLES 017V     OOP 013V   REQ 008V     REQ 008V            
+21:50:00   INGLES 017V     OOP 013V   REQ 008V     REQ 008V            
+22:30:00                   OOP 013V                                    
+ HOURS       Saturday   
+========================
+8:31:00    INGLES 017V  
+9:50:00    INGLES 017V  
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   MATE 008V    
+12:50:00   MATE 008V    
+13:01:00   MATE 008V    
+13:40:00   MATE 008V    
+14:20:00   MATE 008V    
+14:31:00                
+15:50:00                
+
+********************************************************************************
+                                   SEMANA 26                                    
+********************************************************************************
+ HOURS        Monday       Tuesday    Wednesday    Thursday    Friday  
+=======================================================================
+19:01:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+19:41:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+20:20:00   DATABASE 015V              ANTRO 039V   OOP 013V   MATE 008V
+20:31:00   INGLES 018V     OOP 013V   REQ 008V     REQ 008V            
+21:10:00   INGLES 018V     OOP 013V   REQ 008V     REQ 008V            
+21:11:00   INGLES 018V     OOP 013V   REQ 008V     REQ 008V            
+21:50:00   INGLES 018V     OOP 013V   REQ 008V     REQ 008V            
+22:30:00                   OOP 013V                                    
+ HOURS       Saturday   
+========================
+8:31:00                 
+9:50:00                 
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   MATE 008V    
+12:50:00   MATE 008V    
+13:01:00   MATE 008V    
+13:40:00   MATE 008V    
+14:20:00   MATE 008V    
+14:31:00   INGLES 018V  
+15:50:00   INGLES 018V  
+
+********************************************************************************
+                                   SEMANA 27                                    
+********************************************************************************
+ HOURS        Monday        Tuesday     Wednesday   Thursday    Friday  
+========================================================================
+19:01:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+19:41:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+20:20:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+20:31:00   INGLES 017V     OOP 013V     REQ 008V    REQ 008V            
+21:10:00   INGLES 017V     OOP 013V     REQ 008V    REQ 008V            
+21:11:00   INGLES 017V     OOP 013V     REQ 008V    REQ 008V            
+21:50:00   INGLES 017V     OOP 013V     REQ 008V    REQ 008V            
+22:30:00                   OOP 013V                                     
+ HOURS       Saturday   
+========================
+8:31:00    INGLES 017V  
+9:50:00    INGLES 017V  
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   MATE 008V    
+12:50:00   MATE 008V    
+13:01:00   MATE 008V    
+13:40:00   MATE 008V    
+14:20:00   MATE 008V    
+14:31:00                
+15:50:00                
+
+********************************************************************************
+                                   SEMANA 28                                    
+********************************************************************************
+ HOURS        Monday        Tuesday     Wednesday   Thursday     Friday 
+========================================================================
+19:01:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+19:41:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+20:20:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+20:31:00   INGLES 017V     OOP 013V                 MATE 009V           
+21:10:00   INGLES 017V     OOP 013V                 MATE 009V           
+21:11:00   INGLES 017V     OOP 013V                 MATE 009V           
+21:50:00   INGLES 017V     OOP 013V                 MATE 009V           
+22:30:00                   OOP 013V                 MATE 009V           
+ HOURS       Saturday   
+========================
+8:31:00    INGLES 017V  
+9:50:00    INGLES 017V  
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   REQ 009V     
+12:50:00   REQ 009V     
+13:01:00   REQ 009V     
+13:40:00   REQ 009V     
+14:20:00                
+14:31:00                
+15:50:00                
+
+********************************************************************************
+                                   SEMANA 29                                    
+********************************************************************************
+ HOURS        Monday        Tuesday     Wednesday   Thursday    Friday  
+========================================================================
+19:01:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+19:41:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+20:20:00   DATABASE 015V   ANTRO 040V               OOP 013V   MATE 008V
+20:31:00   INGLES 018V     OOP 013V     REQ 008V    REQ 008V            
+21:10:00   INGLES 018V     OOP 013V     REQ 008V    REQ 008V            
+21:11:00   INGLES 018V     OOP 013V     REQ 008V    REQ 008V            
+21:50:00   INGLES 018V     OOP 013V     REQ 008V    REQ 008V            
+22:30:00                   OOP 013V                                     
+ HOURS       Saturday   
+========================
+8:31:00                 
+9:50:00                 
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   MATE 008V    
+12:50:00   MATE 008V    
+13:01:00   MATE 008V    
+13:40:00   MATE 008V    
+14:20:00   MATE 008V    
+14:31:00   INGLES 018V  
+15:50:00   INGLES 018V  
+
+********************************************************************************
+                                   SEMANA 30                                    
+********************************************************************************
+ HOURS        Monday        Tuesday     Wednesday   Thursday     Friday 
+========================================================================
+19:01:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+19:41:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+20:20:00   DATABASE 015V   ANTRO 040V   MATE 009V   OOP 013V    REQ 009V
+20:31:00   INGLES 018V     OOP 013V                 MATE 009V           
+21:10:00   INGLES 018V     OOP 013V                 MATE 009V           
+21:11:00   INGLES 018V     OOP 013V                 MATE 009V           
+21:50:00   INGLES 018V     OOP 013V                 MATE 009V           
+22:30:00                   OOP 013V                 MATE 009V           
+ HOURS       Saturday   
+========================
+8:31:00                 
+9:50:00                 
+10:01:00   DATABASE 015V
+11:20:00   DATABASE 015V
+11:31:00   DATABASE 015V
+12:10:00   DATABASE 015V
+12:11:00   REQ 009V     
+12:50:00   REQ 009V     
+13:01:00   REQ 009V     
+13:40:00   REQ 009V     
+14:20:00                
+14:31:00   INGLES 018V  
+15:50:00   INGLES 018V  
+
