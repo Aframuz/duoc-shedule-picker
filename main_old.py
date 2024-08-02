@@ -1,4 +1,4 @@
-from schedule_info import courses
+from helpers.schedule_info import courses
 from pprint import pprint
 from tabulate import tabulate
 from texttable import Texttable
