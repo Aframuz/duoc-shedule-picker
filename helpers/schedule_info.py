@@ -1,8 +1,14 @@
 import csv
 import random
 import pprint
+import os
 
-FILE_NAME = "2do_semestre.csv"
+FILE_NAME = "4to_semestre.csv"
+
+# dir processing
+current_dir = os.path.dirname(__file__)
+file_path = os.path.join(current_dir, '..', 'data', FILE_NAME)
+
 courses = {}
 
 
@@ -78,13 +84,13 @@ def parse_course_section(course_code):
     return course_code[-4:]
 
 
-with open(FILE_NAME, "r", encoding="utf-8") as schedule:
+with open(file_path, "r", encoding="utf-8") as schedule:
     csv_reader = csv.DictReader(schedule)
 
     for row in csv_reader:
         # extract info
-        ramo = row["Ramo"]
-        seccion = parse_course_section(row["Codigo"])
+        ramo = row["Asignatura"]
+        seccion = parse_course_section(row["Sección"])
         horario = row["Horario"]
 
         # create course key
@@ -94,3 +100,5 @@ with open(FILE_NAME, "r", encoding="utf-8") as schedule:
         courses[ramo].setdefault(seccion, [])
 
         courses[ramo][seccion].append(parse_schedule(horario))
+
+print(courses)

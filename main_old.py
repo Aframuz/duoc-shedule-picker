@@ -123,12 +123,11 @@ def week_to_table(week):
         "Saturday",
     ]
     COURSE_NAME_ABR = {
-        "MATEMÁTICA APLICADA": "MATE",
-        "DESARROLLO ORIENTADO A OBJETOS": "OOP",
-        "INGENIERÍA DE REQUISITOS": "REQ",
-        "INGLÉS ELEMENTAL I": "INGLES",
-        "BASE DE DATOS APLICADA I": "DATABASE",
-        "FUNDAMENTOS DE ANTROPOLOGÍA": "ANTRO",
+        "ÉTICA PARA EL TRABAJO": "ETICA",
+        "ESTADÍSTICA DESCRIPTIVA": "ESTADÍSTICA",
+        "DESARROLLO DE APLICACIONES MÓVILES": "APP",
+        "DESARROLLO FULLSTACK II": "FULLSTACK II",
+        "TALLER DE BASE DE DATOS": "DATABASE",
     }
 
     for course_name, course_info in week.items():

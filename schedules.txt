@@ -1,0 +1,111 @@
+********************************************************************************
+                                    SEMANA 1                                    
+********************************************************************************
+ HOURS        Monday         Tuesday       Wednesday     Thursday      Friday   
+================================================================================
+19:01:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+19:41:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+20:20:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+20:31:00   APP 006V        DATABASE       FULLSTACK II              FULLSTACK II
+                           007V           005V                      005V        
+21:10:00   APP 006V        DATABASE       FULLSTACK II              FULLSTACK II
+                           007V           005V                      005V        
+21:11:00   APP 006V        DATABASE       FULLSTACK II                          
+                           007V           005V                                  
+21:50:00   APP 006V        DATABASE       FULLSTACK II                          
+                           007V           005V                                  
+22:30:00   APP 006V                       FULLSTACK II                          
+                                          005V                                  
+ HOURS         Saturday    
+===========================
+8:31:00    ESTADÍSTICA 006V
+9:50:00    ESTADÍSTICA 006V
+10:01:00   ETICA 006V      
+11:20:00   ETICA 006V      
+11:31:00                   
+12:10:00                   
+12:11:00                   
+12:50:00                   
+13:01:00                   
+13:40:00                   
+14:20:00                   
+14:31:00                   
+15:50:00                   
+
+********************************************************************************
+                                    SEMANA 2                                    
+********************************************************************************
+ HOURS        Monday         Tuesday       Wednesday     Thursday      Friday   
+================================================================================
+19:01:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+19:41:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+20:20:00   DATABASE 007V                  ESTADÍSTICA    APP 006V   FULLSTACK II
+                                          006V                      005V        
+20:31:00   APP 006V        DATABASE       FULLSTACK II              FULLSTACK II
+                           007V           005V                      005V        
+21:10:00   APP 006V        DATABASE       FULLSTACK II              FULLSTACK II
+                           007V           005V                      005V        
+21:11:00   APP 006V        DATABASE       FULLSTACK II                          
+                           007V           005V                                  
+21:50:00   APP 006V        DATABASE       FULLSTACK II                          
+                           007V           005V                                  
+22:30:00   APP 006V                       FULLSTACK II                          
+                                          005V                                  
+ HOURS         Saturday    
+===========================
+8:31:00    ESTADÍSTICA 006V
+9:50:00    ESTADÍSTICA 006V
+10:01:00                   
+11:20:00                   
+11:31:00   ETICA 005V      
+12:10:00   ETICA 005V      
+12:11:00   ETICA 005V      
+12:50:00   ETICA 005V      
+13:01:00                   
+13:40:00                   
+14:20:00                   
+14:31:00                   
+15:50:00                   
+
+********************************************************************************
+                                    SEMANA 3                                    
+********************************************************************************
+ HOURS        Monday        Tuesday      Wednesday     Thursday        Friday   
+================================================================================
+19:01:00   FULLSTACK II   DATABASE       APP 005V    FULLSTACK II   APP 005V    
+           004V           006V                       004V                       
+19:41:00   FULLSTACK II   DATABASE       APP 005V    FULLSTACK II   APP 005V    
+           004V           006V                       004V                       
+20:20:00   FULLSTACK II   DATABASE       APP 005V    FULLSTACK II   APP 005V    
+           004V           006V                       004V                       
+20:31:00   FULLSTACK II                  APP 005V    FULLSTACK II   ESTADÍSTICA 
+           004V                                      004V           005V        
+21:10:00   FULLSTACK II                  APP 005V    FULLSTACK II   ESTADÍSTICA 
+           004V                                      004V           005V        
+21:11:00   DATABASE                                                 ESTADÍSTICA 
+           006V                                                     005V        
+21:50:00   DATABASE                                                 ESTADÍSTICA 
+           006V                                                     005V        
+22:30:00   DATABASE                                                             
+           006V                                                                 
+ HOURS         Saturday    
+===========================
+8:31:00                    
+9:50:00                    
+10:01:00   ESTADÍSTICA 005V
+11:20:00   ESTADÍSTICA 005V
+11:31:00   ETICA 005V      
+12:10:00   ETICA 005V      
+12:11:00   ETICA 005V      
+12:50:00   ETICA 005V      
+13:01:00                   
+13:40:00                   
+14:20:00                   
+14:31:00                   
+15:50:00                   
+

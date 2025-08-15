@@ -1,7 +1,10 @@
 from texttable import Texttable
+import os 
 
-FILE_NAME = "2do_semestre.csv"
+FILE_NAME = "3er_semestre.csv"
 
+current_dir = os.path.dirname(__file__)
+file_path = os.path.join(current_dir, '..', 'data', FILE_NAME)
 
 class Schedule:
     DAYS = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado"]
