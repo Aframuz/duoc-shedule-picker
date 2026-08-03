@@ -1,0 +1,87 @@
+name: release
+
+# Windows binaries cannot be cross-built from Linux, so the matrix builds each
+# platform on its own runner.
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv venv
+      - run: uv pip install -e ".[dev]"
+      - run: uv run pytest
+      - run: uv run ruff check src tests
+
+  build:
+    needs: test
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            name: linux
+            onefile: "1"      # single binary; no antivirus concerns here
+          - os: windows-latest
+            name: windows
+            onefile: "0"      # folder + zip; a onefile .exe trips AV heuristics
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv venv
+      - run: uv pip install -e ".[dev]"
+
+      - name: Build
+        env:
+          SCHEDULE_PICKER_ONEFILE: ${{ matrix.onefile }}
+        run: uv run pyinstaller packaging/schedule-picker.spec --noconfirm
+
+      - name: Smoke test
+        shell: bash
+        run: |
+          if [ "${{ matrix.onefile }}" = "1" ]; then
+            BIN=dist/schedule-picker
+          else
+            BIN=dist/schedule-picker/schedule-picker
+          fi
+          "$BIN" --version
+          "$BIN" data/4to_semestre.csv --headless --all-courses --format json > /dev/null
+
+      - name: Package
+        shell: bash
+        run: |
+          mkdir -p artifacts
+          if [ "${{ matrix.onefile }}" = "1" ]; then
+            tar -czf "artifacts/schedule-picker-${{ matrix.name }}.tar.gz" -C dist schedule-picker
+          else
+            7z a "artifacts/schedule-picker-${{ matrix.name }}.zip" ./dist/schedule-picker/*
+          fi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: schedule-picker-${{ matrix.name }}
+          path: artifacts/*
+
+  publish:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: artifacts/*
+          generate_release_notes: true

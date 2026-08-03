@@ -1,0 +1,65 @@
+********************************************************************************
+                                    OPCION 1                                    
+********************************************************************************
+6 dias | 56 min libres
+  Horario   |    Lunes     |    Martes    |  Miercoles   |    Jueves    |   Viernes   
+============+==============+==============+==============+==============+=============
+19:01-20:20 | DSY1104 004V | BDY1103 006V | DSY1105 005V | DSY1104 004V | DSY1105 005V
+20:31-21:10 | DSY1104 004V |              | DSY1105 005V | DSY1104 004V | MAT4141 005V
+21:10-21:50 | BDY1103 006V |              |              |              | MAT4141 005V
+21:50-22:30 | BDY1103 006V |              |              |              |             
+  Horario   |    Sabado   
+============+=============
+10:01-11:20 | MAT4141 005V
+11:31-12:50 | EAY4730 005V
+   Codigo    |             Asignatura             |        Docente        
+=============+====================================+=======================
+BDY1103 006V | TALLER DE BASE DE DATOS            | MITCCIO CAMILO MORALES
+DSY1104 004V | DESARROLLO FULLSTACK II            | OSCAR ANTONIO BADILLA 
+DSY1105 005V | DESARROLLO DE APLICACIONES MÓVILES | JUAN GUILLERMO AZÓCAR 
+EAY4730 005V | ÉTICA PARA EL TRABAJO              | RAUL GUSTAVO SAMANIEGO
+MAT4141 005V | ESTADÍSTICA DESCRIPTIVA            | MIGUEL ALEXIS GASSET  
+
+********************************************************************************
+                                    OPCION 2                                    
+********************************************************************************
+6 dias | 134 min libres
+  Horario   |    Lunes     |    Martes    |  Miercoles   |    Jueves    |   Viernes   
+============+==============+==============+==============+==============+=============
+19:01-20:20 | BDY1103 007V |              | MAT4141 006V | DSY1105 006V | DSY1104 005V
+20:31-21:10 | DSY1105 006V | BDY1103 007V | DSY1104 005V |              | DSY1104 005V
+21:10-21:50 | DSY1105 006V | BDY1103 007V | DSY1104 005V |              |             
+21:50-22:30 | DSY1105 006V |              | DSY1104 005V |              |             
+  Horario   |    Sabado   
+============+=============
+08:31-09:50 | MAT4141 006V
+11:31-12:50 | EAY4730 005V
+   Codigo    |             Asignatura             |        Docente        
+=============+====================================+=======================
+BDY1103 007V | TALLER DE BASE DE DATOS            | MITCCIO CAMILO MORALES
+DSY1104 005V | DESARROLLO FULLSTACK II            | TOMAS IGNACIO OPAZO   
+DSY1105 006V | DESARROLLO DE APLICACIONES MÓVILES | JUAN GUILLERMO AZÓCAR 
+EAY4730 005V | ÉTICA PARA EL TRABAJO              | RAUL GUSTAVO SAMANIEGO
+MAT4141 006V | ESTADÍSTICA DESCRIPTIVA            | EDUARDO FELIPE PUTZ   
+
+********************************************************************************
+                                    OPCION 3                                    
+********************************************************************************
+6 dias | 44 min libres
+  Horario   |    Lunes     |    Martes    |  Miercoles   |    Jueves    |   Viernes   
+============+==============+==============+==============+==============+=============
+19:01-20:20 | BDY1103 007V |              | MAT4141 006V | DSY1105 006V | DSY1104 005V
+20:31-21:10 | DSY1105 006V | BDY1103 007V | DSY1104 005V |              | DSY1104 005V
+21:10-21:50 | DSY1105 006V | BDY1103 007V | DSY1104 005V |              |             
+21:50-22:30 | DSY1105 006V |              | DSY1104 005V |              |             
+  Horario   |    Sabado   
+============+=============
+08:31-09:50 | MAT4141 006V
+10:01-11:20 | EAY4730 006V
+   Codigo    |             Asignatura             |         Docente        
+=============+====================================+========================
+BDY1103 007V | TALLER DE BASE DE DATOS            | MITCCIO CAMILO MORALES 
+DSY1104 005V | DESARROLLO FULLSTACK II            | TOMAS IGNACIO OPAZO    
+DSY1105 006V | DESARROLLO DE APLICACIONES MÓVILES | JUAN GUILLERMO AZÓCAR  
+EAY4730 006V | ÉTICA PARA EL TRABAJO              | HELENA DEL CARMEN ROJAS
+MAT4141 006V | ESTADÍSTICA DESCRIPTIVA            | EDUARDO FELIPE PUTZ    

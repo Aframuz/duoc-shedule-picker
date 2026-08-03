@@ -1,0 +1,420 @@
+{
+  "total": 3,
+  "horarios": [
+    {
+      "opcion": 1,
+      "dias": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "dias_presenciales": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "minutos_clase": 828,
+      "minutos_libres": 56,
+      "creditos": 0,
+      "optativos": [],
+      "secciones": [
+        {
+          "sigla": "BDY1103",
+          "seccion": "BDY1103-006V",
+          "asignatura": "TALLER DE BASE DE DATOS",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "MITCCIO CAMILO MORALES",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "21:11",
+              "fin": "22:30"
+            },
+            {
+              "dia": "Martes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1104",
+          "seccion": "DSY1104-004V",
+          "asignatura": "DESARROLLO FULLSTACK II",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "OSCAR ANTONIO BADILLA",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Lunes",
+              "inicio": "20:31",
+              "fin": "21:10"
+            },
+            {
+              "dia": "Jueves",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Jueves",
+              "inicio": "20:31",
+              "fin": "21:10"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1105",
+          "seccion": "DSY1105-005V",
+          "asignatura": "DESARROLLO DE APLICACIONES MÓVILES",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "JUAN GUILLERMO AZÓCAR",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Miercoles",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Miercoles",
+              "inicio": "20:31",
+              "fin": "21:10"
+            },
+            {
+              "dia": "Viernes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            }
+          ]
+        },
+        {
+          "sigla": "EAY4730",
+          "seccion": "EAY4730-005V",
+          "asignatura": "ÉTICA PARA EL TRABAJO",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "RAUL GUSTAVO SAMANIEGO",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Sabado",
+              "inicio": "11:31",
+              "fin": "12:50"
+            }
+          ]
+        },
+        {
+          "sigla": "MAT4141",
+          "seccion": "MAT4141-005V",
+          "asignatura": "ESTADÍSTICA DESCRIPTIVA",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "MIGUEL ALEXIS GASSET",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Viernes",
+              "inicio": "20:31",
+              "fin": "21:50"
+            },
+            {
+              "dia": "Sabado",
+              "inicio": "10:01",
+              "fin": "11:20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opcion": 2,
+      "dias": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "dias_presenciales": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "minutos_clase": 830,
+      "minutos_libres": 134,
+      "creditos": 0,
+      "optativos": [],
+      "secciones": [
+        {
+          "sigla": "BDY1103",
+          "seccion": "BDY1103-007V",
+          "asignatura": "TALLER DE BASE DE DATOS",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "MITCCIO CAMILO MORALES",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Martes",
+              "inicio": "20:31",
+              "fin": "21:50"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1104",
+          "seccion": "DSY1104-005V",
+          "asignatura": "DESARROLLO FULLSTACK II",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "TOMAS IGNACIO OPAZO",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Miercoles",
+              "inicio": "20:31",
+              "fin": "22:30"
+            },
+            {
+              "dia": "Viernes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Viernes",
+              "inicio": "20:31",
+              "fin": "21:10"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1105",
+          "seccion": "DSY1105-006V",
+          "asignatura": "DESARROLLO DE APLICACIONES MÓVILES",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "JUAN GUILLERMO AZÓCAR",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "20:31",
+              "fin": "22:30"
+            },
+            {
+              "dia": "Jueves",
+              "inicio": "19:01",
+              "fin": "20:20"
+            }
+          ]
+        },
+        {
+          "sigla": "EAY4730",
+          "seccion": "EAY4730-005V",
+          "asignatura": "ÉTICA PARA EL TRABAJO",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "RAUL GUSTAVO SAMANIEGO",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Sabado",
+              "inicio": "11:31",
+              "fin": "12:50"
+            }
+          ]
+        },
+        {
+          "sigla": "MAT4141",
+          "seccion": "MAT4141-006V",
+          "asignatura": "ESTADÍSTICA DESCRIPTIVA",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "EDUARDO FELIPE PUTZ",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Miercoles",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Sabado",
+              "inicio": "08:31",
+              "fin": "09:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opcion": 3,
+      "dias": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "dias_presenciales": [
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
+      ],
+      "minutos_clase": 830,
+      "minutos_libres": 44,
+      "creditos": 0,
+      "optativos": [],
+      "secciones": [
+        {
+          "sigla": "BDY1103",
+          "seccion": "BDY1103-007V",
+          "asignatura": "TALLER DE BASE DE DATOS",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "MITCCIO CAMILO MORALES",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Martes",
+              "inicio": "20:31",
+              "fin": "21:50"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1104",
+          "seccion": "DSY1104-005V",
+          "asignatura": "DESARROLLO FULLSTACK II",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "TOMAS IGNACIO OPAZO",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Miercoles",
+              "inicio": "20:31",
+              "fin": "22:30"
+            },
+            {
+              "dia": "Viernes",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Viernes",
+              "inicio": "20:31",
+              "fin": "21:10"
+            }
+          ]
+        },
+        {
+          "sigla": "DSY1105",
+          "seccion": "DSY1105-006V",
+          "asignatura": "DESARROLLO DE APLICACIONES MÓVILES",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "JUAN GUILLERMO AZÓCAR",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Lunes",
+              "inicio": "20:31",
+              "fin": "22:30"
+            },
+            {
+              "dia": "Jueves",
+              "inicio": "19:01",
+              "fin": "20:20"
+            }
+          ]
+        },
+        {
+          "sigla": "EAY4730",
+          "seccion": "EAY4730-006V",
+          "asignatura": "ÉTICA PARA EL TRABAJO",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "HELENA DEL CARMEN ROJAS",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Sabado",
+              "inicio": "10:01",
+              "fin": "11:20"
+            }
+          ]
+        },
+        {
+          "sigla": "MAT4141",
+          "seccion": "MAT4141-006V",
+          "asignatura": "ESTADÍSTICA DESCRIPTIVA",
+          "nivel": "4",
+          "creditos": null,
+          "docente": "EDUARDO FELIPE PUTZ",
+          "sede": "PLAZA VESPUCIO",
+          "modalidad": null,
+          "bloques": [
+            {
+              "dia": "Miercoles",
+              "inicio": "19:01",
+              "fin": "20:20"
+            },
+            {
+              "dia": "Sabado",
+              "inicio": "08:31",
+              "fin": "09:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
